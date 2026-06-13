@@ -1,6 +1,7 @@
 # stop-bluff
 
 **Claude finished the task. It just didn't have everything you sent.**
+
 **One file. Pasted into your project. Claude stops filling in the gaps.**
 
 Works as a Claude Project Instruction, Files or Chat system prompt. Tested in Claude Projects and Chat.
